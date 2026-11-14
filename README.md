@@ -20,5 +20,5 @@ Wooden Cooking Spoon CAD PNG:
 ## 📂 Repository Contents
 * `LICENSE` — MIT License.
 * `README.md` — Project documentation and navigation links.
-* `wooden_cooking_spoon.step` — High-precision B-Rep CAD model (`STEP AP214`).
-* `wooden_cooking_spoon.stl` — Fine-resolution binary mesh for browser 3D viewing and 3D-printed ergonomic test prototypes.
+* `wooden-cooking-spoon.step` — High-precision B-Rep CAD model (`STEP AP214`).
+* `wooden-cooking-spoon.stl` — Fine-resolution binary mesh for browser 3D viewing and 3D-printed ergonomic test prototypes.
