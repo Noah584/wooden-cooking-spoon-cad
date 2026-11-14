@@ -13,9 +13,9 @@ Wooden Cooking Spoon CAD PNG:
 * **Manufacturing-Ready Geometry:** Designed with smooth, continuous curvature suitable for CNC router toolpaths or traditional woodworking templates.
 
 ## How to View
-* **Interactive 3D Viewer:** Click **`wooden_cooking_spoon.stl`** in the file list above to rotate, zoom, and inspect the 3D geometry directly in GitHub.
+* **Interactive 3D Viewer:** Click **`wooden-cooking-spoon.stl`** in the file list above to rotate, zoom, and inspect the 3D geometry directly in GitHub.
 * Check out my Onshape workspace [here](https://cad.onshape.com/documents/23cb818b592552508d8d02a8/w/29c0cdc77e41f316240bf372/e/79a1dd35f101a373adcce33b?renderMode=0&leftPanel=false&uiState=6af8117a1442ab9119755008).
-* **Universal CAD Import:** Download **`wooden_cooking_spoon.step`** to open the exact parametric B-Rep surfaces in Onshape, SolidWorks, Fusion 360, or FreeCAD.
+* **Universal CAD Import:** Download **`wooden-cooking-spoon.step`** to open the exact parametric B-Rep surfaces in Onshape, SolidWorks, Fusion 360, or FreeCAD.
 
 ## 📂 Repository Contents
 * `LICENSE` — MIT License.
